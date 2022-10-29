@@ -1,0 +1,12 @@
+.navigation{
+    width: 40%;
+}
+.w-10{
+    width: 10%;
+}
+
+@media only screen and (max-width: 768px){
+    .navigation{
+        width: 100%;
+    }
+}

@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "picture": "https://5.imimg.com/data5/ZQ/UK/SW/SELLER-87197778/gym-equipments-500x500.jpg",
+      "time": "50",
+      "age": "20-25",
+      "name": "Treadmill"
+    },
+    {
+      "id": "2",
+      "picture": "https://images.othoba.com/images/thumbs/0357778_self-suction-sit-up-bar-assistor-gym-workout-fitness-equipment-blue.jpeg",
+      "time": "32",
+      "age": "18-23",
+      "name": "Sit Up Bar"
+    },
+    {
+      "id": "3",
+      "picture": "https://rukminim1.flixcart.com/image/800/800/jw5a2kw0/dumbbell/h/h/s/kettlebell-dumbell-5kg-5-jaxon-original-imafgv4gwryknjcv.jpeg?q=90",
+      "time": "30",
+      "age": "18-30",
+      "name": "Dumbell"
+    },
+    {
+      "id": "4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcGdBolwnU2cT5sJ1lNh5WVzS9NdGhJJogw&usqp=CAU",
+      "time": "60",
+      "age": "20-32",
+      "name": "Chest Press Machine"
+    },
+    {
+      "id": "5",
+      "picture": "https://4.imimg.com/data4/EA/RV/MY-8497149/pec-fly-500x500.jpg",
+      "time": "25",
+      "age": "25-35",
+      "name": "Chest Fly Machine"
+    },
+    {
+      "id": "6",
+      "picture": "https://legionathletics.com/wp-content/uploads/2021/03/BF-49_1-Main_620x.jpg",
+      "time": "45",
+      "age": "18-23",
+      "name": "Bench Press"
+    }
+  ]
